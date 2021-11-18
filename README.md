@@ -1,5 +1,11 @@
 # acwing-basic-class
 
+> the link of specific problem : C++``https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/{PROBLEM}/Main.cpp``Java`https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/{PROBLEM}/Main.java`
+>
+> the sign of not need to review : :heavy_check_mark:
+>
+> the sign of need to review : :heavy_multiplication_x:
+
 ### 1. 课程
 
 |          Video          | Date       | Review             |
@@ -33,12 +39,12 @@
 
 ### 2. 题目
 
-| Title                    | Solution         | Date       | Review             |
-| ------------------------ | ---------------- | ---------- | ------------------ |
-| AcWing 790. 数的三次方根 | [C++]()/[Java]() | 2021-11-18 | :heavy_check_mark: |
-| AcWing 789. 数的范围     | [C++]()/[Java]() | 2021-11-18 | :heavy_check_mark: |
-| AcWing 787. 归并排序     | [C++]()/[Java]() | 2021-11-18 | :heavy_check_mark: |
-| AcWing 785. 快速排序     | [C++]()/[Java]() | 2021-11-18 | :heavy_check_mark: |
+| Title                    | Solution                                                     | Date       | Review             |
+| ------------------------ | ------------------------------------------------------------ | ---------- | ------------------ |
+| AcWing 790. 数的三次方根 | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing790Shudesancifanggen/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing790Shudesancifanggen/Main.java) | 2021-11-18 | :heavy_check_mark: |
+| AcWing 789. 数的范围     | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing789Shudefanwei/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing789Shudefanwei/Main.java) | 2021-11-18 | :heavy_check_mark: |
+| AcWing 787. 归并排序     | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing787Guibingpaixu/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing787Guibingpaixu/Main.java) | 2021-11-18 | :heavy_check_mark: |
+| AcWing 785. 快速排序     | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing786Kuaisupaixu/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing786Kuaisupaixu/Main.java) | 2021-11-18 | :heavy_check_mark: |
 
 ---
 
@@ -46,3 +52,5 @@
 > 链接：https://www.acwing.com/activity/content/11/   
 > 来源：AcWing     
 > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。    
+
+
