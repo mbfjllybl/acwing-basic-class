@@ -1,4 +1,4 @@
-package chapter1.acwing786Kuaisupaixu;
+package chapter1.KuaiSuPaiXu;
 
 import java.io.BufferedReader;
 import java.io.IOException;

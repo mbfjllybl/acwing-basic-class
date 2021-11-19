@@ -39,20 +39,20 @@
 
 ### 2. 题目
 
-| Title                    | Solution                                                     | Date       | Review             |
-| ------------------------ | ------------------------------------------------------------ | ---------- | ------------------ |
-| AcWing 798. 差分矩阵     |                                                              | 2021-11-18 |                    |
-| AcWing 797. 差分         |                                                              | 2021-11-18 |                    |
-| AcWing 795. 前缀和       |                                                              | 2021-11-18 |                    |
-| AcWing 795. 前缀和       |                                                              | 2021-11-18 |                    |
-| AcWing 794. 高精度除法   | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing794Gaojingduchufa/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing794Gaojingduchufa/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 793. 高精度乘法   | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing793Gaojingduchengfa/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing793Gaojingduchengfa/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 792. 高精度减法   | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing792Gaojingdujianfa/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing792Gaojingdujianfa/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 791. 高精度加法   | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing791Gaojingdujiafa/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing791Gaojingdujiafa/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 790. 数的三次方根 | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing790Shudesancifanggen/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing790Shudesancifanggen/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 789. 数的范围     | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing789Shudefanwei/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing789Shudefanwei/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 787. 归并排序     | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing787Guibingpaixu/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing787Guibingpaixu/Main.java) | 2021-11-18 | :heavy_check_mark: |
-| AcWing 785. 快速排序     | [C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing786Kuaisupaixu/Main.cpp)/[Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/acwing786Kuaisupaixu/Main.java) | 2021-11-18 | :heavy_check_mark: |
+| Title                    | Solution                                                     | Date       | Review                   |
+| ------------------------ | ------------------------------------------------------------ | ---------- | ------------------------ |
+| AcWing 798. 差分矩阵     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ChaFenJuZhen/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ChaFenJuZhen/Main.cpp) | 2021-11-18 | :heavy_multiplication_x: |
+| AcWing 797. 差分         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ChaFen/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ChaFen/Main.cpp) | 2021-11-18 | :heavy_multiplication_x: |
+| AcWing 796. 子矩阵的和   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ZiJuZhenDeHe/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ZiJuZhenDeHe/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 795. 前缀和       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/QianZhuiHe/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/QianZhuiHe/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 794. 高精度除法   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuChuFa/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuChuFa/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 793. 高精度乘法   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuChengFa/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuChengFa/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 792. 高精度减法   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuJianFa/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuJianFa/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 791. 高精度加法   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuJiaFa/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GaoJingDuJiaFa/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 790. 数的三次方根 | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ShuDeSanCiFangGen/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ShuDeSanCiFangGen/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 789. 数的范围     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ShuDeFanWei/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/ShuDeFanWei/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 787. 归并排序     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GuiBingPaiXu/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/GuiBingPaiXu/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
+| AcWing 785. 快速排序     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/KuaiSuPaiXu/Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter1/KuaiSuPaiXu/Main.cpp) | 2021-11-18 | :heavy_check_mark:       |
 
 ---
 

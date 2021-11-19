@@ -1,4 +1,4 @@
-package chapter1.acwing790Shudesancifanggen;
+package chapter1.ShuDeSanCiFangGen;
 
 import java.io.BufferedReader;
 import java.io.IOException;

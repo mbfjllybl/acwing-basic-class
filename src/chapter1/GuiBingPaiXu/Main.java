@@ -1,4 +1,4 @@
-package chapter1.acwing787Guibingpaixu;
+package chapter1.GuiBingPaiXu;
 
 import java.io.BufferedReader;
 import java.io.IOException;

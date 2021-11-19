@@ -1,4 +1,4 @@
-package chapter1.acwing794Gaojingduchufa;
+package chapter1.GaoJingDuChuFa;
 
 import java.io.BufferedReader;
 import java.io.IOException;

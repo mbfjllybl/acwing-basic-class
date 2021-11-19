@@ -1,4 +1,4 @@
-package chapter1.acwing789Shudefanwei;
+package chapter1.ShuDeFanWei;
 
 import java.io.BufferedReader;
 import java.io.IOException;
