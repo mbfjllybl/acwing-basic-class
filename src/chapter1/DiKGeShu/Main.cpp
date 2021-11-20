@@ -1,24 +1,24 @@
 #include <bits/stdc++.h>
 using namespace std;
-const int N = 100010;
+const int N = 1000010;
 int nums[N];
 
-void quick_sort(int l, int r) {
-    if (l >= r) return;
+int top_k(int l, int r, int k) {
+    if (l >= r) return nums[l];
     int i = l - 1, j = r + 1, mid = nums[l + r >> 1];
     while (i < j) {
         do i++; while (nums[i] < mid);
         do j--; while (nums[j] > mid);
         if (i < j) swap(nums[i], nums[j]);
     }
-    quick_sort(l, j), quick_sort(j + 1, r);
+    if (j - l + 1 >= k) return top_k(l, j, k);
+    else return top_k(j + 1, r, k - (j - l + 1));
 }
 
 int main() {
-    int n;
-    cin >> n;
+    int n, k;
+    cin >> n >> k;
     for (int i = 0; i < n; i++) cin >> nums[i];
-    quick_sort(0, n - 1);
-    for (int i = 0; i < n; i++) cout << nums[i] << " ";
+    cout << top_k(0, n - 1, k);
     return 0;
 }
